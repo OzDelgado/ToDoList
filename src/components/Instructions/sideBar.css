@@ -1,0 +1,24 @@
+  .main-container {
+    display: flex;
+    height: 100vh;
+  }
+  h3{
+    color: #f1f1f1;
+  }
+  .Instructions{
+    background: none;
+    color: #f1f1f1;
+  }
+  .sidebar {
+    width: 40%;
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: left;
+  }
+  .sidebar .logo {
+    width: 150px;
+    margin-bottom: 1rem;
+  }
+  
